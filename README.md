@@ -25,7 +25,7 @@ This is a basic note-taking application developed using HTML, CSS, and JavaScrip
 To run this application, simply download the repository and open the `index.html` file in a web browser.
 
 ```bash
-git clone https://github.com/your-username/note-taking-app.git
+git clone https://github.com/XolaniLan/DailyNotes-Application.git
 cd note-taking-app
 ```
 
