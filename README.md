@@ -38,7 +38,7 @@ cd note-taking-app
 
 ## Demo
 
-You can check out a live demo of the application [here](#).
+You can check out a live demo of the application (https://daily-notes-application.vercel.app/)
 
 ## Contributing
 
